@@ -76,3 +76,6 @@ Your app needs the Google AI API key to work. You must provide it to Netlify sec
 At the top of your site's overview page on Netlify, you'll see a public URL, like `https://random-words-12345.netlify.app`.
 
 **That's it!** You can now copy that link and share it with your friends. They can open it on any device and use the live application you created. Congratulations!
+
+
+synthax ani was here 
