@@ -1,0 +1,9 @@
+{
+  "name": "finished complete but AI Copy of peakpath - Interactive Learning Platform",
+  "description": "An interactive educational platform for students to access learning materials, practice quizzes, and track their progress with the help of AI. not only academically, but physically and mentally also. Now parents can track their children wherever they go and keep a protective eye upon their children's. ",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
